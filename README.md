@@ -14,5 +14,10 @@ Can be used to generate random IDs of any user determined length.
 ## Usage
 
 1. const idGenerator = require('@ponurrrak/id-generator');
-2. const idLength = 10;
+2. console.log(idGenerator()); - then you get 10 characters long id.
+
+OR
+
+1. const idGenerator = require('@ponurrrak/id-generator');
+2. const idLength = 20; (or any other number)
 3. console.log(idGenerator(idLength));

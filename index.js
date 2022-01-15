@@ -1,4 +1,4 @@
-const idGenerator = (idLength) => {
+const idGenerator = (idLength=10) => {
   let id = '';
     const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
     const charsAmount = characters.length;
