@@ -1,8 +1,8 @@
 {
-  "name": "@ponurrrak/IDGenerator",
+  "name": "@ponurrrak/id-generator",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:ponurrrak/IDGenerator.git",
+  "repository": "git@github.com:ponurrrak/idGenerator.git",
   "author": "ponurrrak",
   "license": "MIT"
 }
